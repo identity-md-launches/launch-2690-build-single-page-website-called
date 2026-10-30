@@ -1,0 +1,61 @@
+{
+  "checks": [
+    "HTML metadata and title present",
+    "HTML/CSS local assets relative and present",
+    "Social PNG is 1200x630",
+    "Manifest matches lockfile",
+    "Delivered source matches checked temporary workspace"
+  ],
+  "exportFiles": [
+    {
+      "path": "dist/assets/dm-sans-latin-ext-wght-normal-BOFOeGcA.woff2",
+      "bytes": 18228,
+      "sha256": "a5d38fe99f930275684999b462c7123faa063d9e44e73b4b241723d884aa0f49"
+    },
+    {
+      "path": "dist/assets/dm-sans-latin-wght-normal-Xz1IZZA0.woff2",
+      "bytes": 36932,
+      "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543"
+    },
+    {
+      "path": "dist/assets/index-RPqe4BMf.js",
+      "bytes": 247152,
+      "sha256": "6d65aa121e1a513127d405d1c03c565c35de0389446e9b3d22d80a3a7c868e71"
+    },
+    {
+      "path": "dist/assets/index-g_0aLf5s.css",
+      "bytes": 22497,
+      "sha256": "00fbcdea61ac862ab50564db98baaa027f4532d6c0aae4c181eafb2d9c776b55"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 388,
+      "sha256": "9732ca091b4fb1ea7cb4cf783e0359b14ae930bb1b9405751445eb32c05f5c67"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1558,
+      "sha256": "8e11e3acb3ddcf9803eb923b1f89464c8a2efa0607a5952acb0e1e03949f3f16"
+    },
+    {
+      "path": "dist/licenses/DM-Sans-OFL.txt",
+      "bytes": 4502,
+      "sha256": "6fbd040a29c2037a765dfb9f2561e9965b5c95c6dcb5dce516089d63d5f17af7"
+    },
+    {
+      "path": "dist/licenses/React-MIT.txt",
+      "bytes": 1088,
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+    },
+    {
+      "path": "dist/social-card.png",
+      "bytes": 67701,
+      "sha256": "7dbb1a01ed81ec44b690199acf5b0c41a9a32cca3dc2fc9443b07e87fcb34fe2"
+    },
+    {
+      "path": "dist/social-card.svg",
+      "bytes": 2806,
+      "sha256": "e53b1d427c5137a3c1d7ed8f9edd256d7b7bf4455285ac7abe722e0418c63a5e"
+    }
+  ]
+}

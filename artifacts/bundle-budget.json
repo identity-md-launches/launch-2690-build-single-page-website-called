@@ -1,0 +1,39 @@
+{
+  "limitBytes": 8388608,
+  "totalAddedBytes": 980750,
+  "fileCount": 43,
+  "categoryBytes": {
+    "dist": 402852,
+    "artifacts": 342697,
+    "other": 235201
+  },
+  "categoryLimits": {
+    "dist": 1048576,
+    "artifacts": 5242880,
+    "other": 2097152
+  },
+  "withinBudget": true,
+  "includedRoots": [
+    ".gitignore",
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json",
+    "vite.config.ts",
+    "playwright.config.ts",
+    "index.html",
+    "README.md",
+    "DESIGN.md",
+    "THIRD_PARTY_NOTICES.md",
+    "src",
+    "public",
+    "tests",
+    "dist",
+    "artifacts"
+  ],
+  "excludedInputsAndScratch": [
+    ".imd/",
+    "test/scratch/",
+    ".playwright-mcp/"
+  ],
+  "dependencyAndCacheBytesSubmitted": 0
+}

@@ -1,0 +1,19 @@
+# Explicit path budget: generated dependency/cache directories below receive 0 bytes.
+# dist/, source, lockfile, docs and necessary runtime assets remain included.
+**/node_modules/
+**/.npm/
+**/.pnpm-store/
+**/.vite/
+**/.cache/
+**/.playwright-mcp/
+**/coverage/
+**/*.tsbuildinfo
+# Explicit path budget: test/scratch/ receives 0 submitted bytes (local evidence only).
+test/scratch/
+# Explicit inclusion budget: dist/ <= 1 MiB; artifacts/ <= 5 MiB.
+# Other source, public assets, manifests and documentation <= 2 MiB combined.
+# Total added submission budget remains <= 8 MiB (8,388,608 bytes).
+!dist/
+!dist/**
+!artifacts/
+!artifacts/**
